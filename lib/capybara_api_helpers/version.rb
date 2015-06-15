@@ -1,0 +1,3 @@
+module CapybaraApiHelpers
+  VERSION = "0.0.2"
+end
